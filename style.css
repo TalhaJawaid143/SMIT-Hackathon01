@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+}
+
+
+.nav{
+    position: relative;
+    right: 120px;
+}
+
+.idea{
+    display: flex;
+    flex-direction: row;
+}
+
+.h1{
+    width: 758px;
+    height: 276px;
+    size: 80px;
+}
+
+.heading{
+    position: relative;
+    left: 580px;
+}
+
